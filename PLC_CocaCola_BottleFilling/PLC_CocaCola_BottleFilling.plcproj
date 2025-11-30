@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <FileVersion>1.0.0.0</FileVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5eabfd4d-c4ad-4f10-a1fc-17c1e39545f5}</ProjectGuid>
+    <SubObjectsSortedByName>True</SubObjectsSortedByName>
+    <DownloadApplicationInfo>true</DownloadApplicationInfo>
+    <WriteProductVersion>true</WriteProductVersion>
+    <GenerateTpy>false</GenerateTpy>
+    <Name>PLC_CocaCola_BottleFilling</Name>
+    <ProgramVersion>3.1.4024.0</ProgramVersion>
+    <Application>{f2d08d56-e5c3-48a4-bde3-1bc5e856acf5}</Application>
+    <TypeSystem>{08135824-3bd1-4e70-985b-7f4ea48c0897}</TypeSystem>
+    <Implicit_Task_Info>{bd73bcfd-174e-49a4-b8f6-1317807e930d}</Implicit_Task_Info>
+    <Implicit_KindOfTask>{80ddcbfa-281a-44e8-a2fe-98d330f2adcc}</Implicit_KindOfTask>
+    <Implicit_Jitter_Distribution>{73073694-dbe7-46a4-9145-eeafff25bda3}</Implicit_Jitter_Distribution>
+    <LibraryReferences>{2ec507f7-71b1-4c5d-a388-413dc65d38bc}</LibraryReferences>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="PlcTask.TcTTO">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="POUs\MAIN.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DUTs" />
+    <Folder Include="GVLs" />
+    <Folder Include="VISUs" />
+    <Folder Include="POUs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PlaceholderReference Include="Tc2_Standard">
+      <DefaultResolution>Tc2_Standard, * (Beckhoff Automation GmbH)</DefaultResolution>
+      <Namespace>Tc2_Standard</Namespace>
+    </PlaceholderReference>
+    <PlaceholderReference Include="Tc2_System">
+      <DefaultResolution>Tc2_System, * (Beckhoff Automation GmbH)</DefaultResolution>
+      <Namespace>Tc2_System</Namespace>
+    </PlaceholderReference>
+    <PlaceholderReference Include="Tc3_Module">
+      <DefaultResolution>Tc3_Module, * (Beckhoff Automation GmbH)</DefaultResolution>
+      <Namespace>Tc3_Module</Namespace>
+    </PlaceholderReference>
+  </ItemGroup>
+</Project>
