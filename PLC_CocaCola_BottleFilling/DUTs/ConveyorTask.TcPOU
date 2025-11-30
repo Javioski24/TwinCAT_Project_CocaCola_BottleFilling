@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.16">
+  <POU Name="ConveyorTask" Id="{87e9ae29-61b7-4a01-a01b-00c7b4455ab4}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM ConveyorTask
+VAR
+  DebounceTON : TON;   // Debounce timer for bottle detection
+  EvacuateTON : TON;    // Timer for moving the filled bottle away
+  State : INT := 0;    // 0 = RUNNING, 1 = STOPPED, 2 = EVACUATE
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[
+CASE State OF
+
+  // The idea proposed divides the 3 actions the conveyor belt will do, run, stop and evacuate if error found
+	
+  // State 0 → RUNNING (conveyor moving and waiting)
+	
+ 0:
+  gConveyorStateStr := 'RUNNING';
+  gActuator_ConveyorRun := TRUE;
+
+   // Debounce the bottle sensor gives stability, so when sensor reaches 100MS it will -> go into true
+   DebounceTON(IN := gSensor_BottleDetected, PT := T#100MS);
+
+   // When the bottle is detected firmly → stop conveyor, if it detects the bottle then its stops moving
+    IF DebounceTON.Q THEN
+     gActuator_ConveyorRun := FALSE;
+     gBottleReadyForFill := TRUE;    // here we tell ProductionTask to start filling, connecting both procedures
+     gConveyorStateStr := 'STOPPED';	// Visual represnetation that the conveyor has stopped
+     State := 1;		// Go to Stop
+      END_IF
+
+
+    // State 1 → STOPPED (waiting for filling to complete) 
+	
+	
+    1:
+       gConveyorStateStr := 'STOPPED';
+       gActuator_ConveyorRun := FALSE; // Running stopped waiting for bottle to be completly full
+
+       // When ProductionTask communicates the bottle is already full
+       IF gBottleFilled THEN
+       gBottleReadyForFill := FALSE;
+        EvacuateTON(IN := FALSE);      // reset timer
+        State := 2;                  // go to EVACUATE
+        END_IF
+
+
+
+	// STATE 2 → EVACUATE (push filled bottle away)
+
+	2:
+		gConveyorStateStr := 'EVACUATE';
+		gActuator_ConveyorRun := TRUE; // When bottle is full we want the conveyor to reactivate so it pushes away the filled bottle
+
+		EvacuateTON(IN := TRUE, PT := T#800MS); // This is to give some margin of evacuation
+
+		IF (NOT gSensor_BottleDetected) AND EvacuateTON.Q THEN // If there is no bottle + the timer ends
+		gBottleFilled := FALSE;
+		EvacuateTON(IN := FALSE);
+		 State := 0;				// We go back to running   
+		 END_IF
+
+END_CASE]]></ST>
+    </Implementation>
+    <LineIds Name="ConveyorTask">
+      <LineId Id="12" Count="14" />
+      <LineId Id="73" Count="0" />
+      <LineId Id="28" Count="10" />
+      <LineId Id="74" Count="0" />
+      <LineId Id="40" Count="24" />
+      <LineId Id="5" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>

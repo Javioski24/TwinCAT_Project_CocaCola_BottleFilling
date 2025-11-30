@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.16">
+  <GVL Name="GVL_CocaCola" Id="{f8038208-d0e2-468e-9167-0d0e5c917c78}">
+    <Declaration><![CDATA[VAR_GLOBAL
+    // Actuators + sensors
+    gSensor_BottleDetected : BOOL := FALSE;
+    gActuator_ConveyorRun  : BOOL := TRUE;
+    gActuator_FillValve    : BOOL := FALSE;
+    gActuator_Capper       : BOOL := FALSE;
+
+    // States (for HMI / debug)
+    gConveyorStateStr      : STRING(20) := 'RUNNING';
+    gProductionStateStr    : STRING(20) := 'IDLE';
+
+    // Connection between tasks
+    gBottleReadyForFill    : BOOL := FALSE;   // Conveyor → Production
+    gBottleFilled          : BOOL := FALSE;   // Production → Conveyor
+
+    // Important process parameters
+    gBottleVolume_L        : REAL := 0.5;     // bottle volume [L]
+    gFillRate_L_per_s      : REAL := 0.02;    // fill rate [L/s]
+END_VAR
+]]></Declaration>
+  </GVL>
+</TcPlcObject>

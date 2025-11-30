@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.16">
+  <POU Name="ProductionTask" Id="{7fa2b6da-88ef-437f-8d9f-e0f90f99637d}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM ProductionTask
+VAR
+    FillTON     : TON;     // Timer for filling
+    CapTON      : TON;     // Timer for capping (closing the lid)
+    tFill_ms    : DINT;    // Calculated filling time in ms
+    State       : INT := 0; // 0 = IDLE, 1 = FILLING, 2 = CAPPING, 3 = DONE
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[
+
+CASE State OF
+
+    // State 0 -> IDLE (waiting for bottle from conveyor)
+    0:
+        gProductionStateStr := 'IDLE';
+        gActuator_FillValve := FALSE;
+        gActuator_Capper    := FALSE;
+
+        // When conveyor says bottle is in position
+        IF gBottleReadyForFill THEN
+            // Calculate filling time based on volume and rate
+            tFill_ms := CalculateFillTime_ms(
+                                vol_l   := gBottleVolume_L,
+                                rate_Ls := gFillRate_L_per_s);
+
+            // Safety: avoid negative time (not possible physically)
+            IF tFill_ms < 0 THEN
+                tFill_ms := 0;
+            END_IF; // Cuidado: agregar punto y coma
+
+            // Reset and start filling timer
+            FillTON(IN := FALSE, PT := T#1MS); // Reset requiere PT
+            FillTON(IN := TRUE, PT := T#1MS * tFill_ms);
+
+            // Open fill valve and go to FILLING state
+            gActuator_FillValve := TRUE;
+            gProductionStateStr := 'FILLING';
+            State := 1;
+        END_IF
+
+    // State 1 -> FILLING (waiting for filling to complete)
+    1:
+        gProductionStateStr := 'FILLING';
+        FillTON(IN := TRUE, PT := T#1MS * tFill_ms); // Mantener el timer corriendo
+
+        // When filling time is over
+        IF FillTON.Q THEN
+            gActuator_FillValve := FALSE;  // Close the fill valve
+            FillTON(IN := FALSE, PT := T#1MS); // Reset filling timer
+
+            // Mark bottle as filled for the conveyor
+            gBottleFilled := TRUE;
+
+            // Start capping sequence
+            CapTON(IN := FALSE, PT := T#1MS);
+            CapTON(IN := TRUE, PT := T#400MS);  // 400 ms capping time
+            gActuator_Capper := TRUE;
+            gProductionStateStr := 'CAPPING';
+            State := 2;
+        END_IF
+
+    // State 2 -> CAPPING
+    2:
+        gProductionStateStr := 'CAPPING';
+        CapTON(IN := TRUE, PT := T#400MS); // keep capping timer running
+
+        IF CapTON.Q THEN
+            gActuator_Capper := FALSE; // stop capping
+            CapTON(IN := FALSE, PT := T#1MS);  // reset capping timer
+            gProductionStateStr := 'DONE';
+            State := 3;
+        END_IF
+
+    // State 3 -> DONE (waiting for conveyor to evacuate)
+    3:
+        gProductionStateStr := 'DONE'; // Process is completed
+
+        // Stay here until the conveyor resets gBottleFilled
+        IF NOT gBottleFilled THEN
+            State := 0;  // back to IDLE, ready for next bottle
+        END_IF
+
+END_CASE]]></ST>
+    </Implementation>
+    <LineIds Name="ProductionTask">
+      <LineId Id="195" Count="73" />
+      <LineId Id="5" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>

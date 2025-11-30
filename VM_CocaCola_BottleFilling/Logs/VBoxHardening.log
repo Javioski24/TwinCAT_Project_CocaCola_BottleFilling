@@ -1,0 +1,1015 @@
+43e4.b660: \SystemRoot\System32\ntdll.dll:
+43e4.b660:     CreationTime:    2025-11-12T12:17:28.232413600Z
+43e4.b660:     LastWriteTime:   2025-11-12T12:17:28.351830200Z
+43e4.b660:     ChangeTime:      2025-11-17T08:30:25.047682000Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x267ba0
+43e4.b660:     NT Headers:      0xf0
+43e4.b660:     Timestamp:       0x9c8f8241
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0x9c8f8241
+43e4.b660:     Image Version:   10.0
+43e4.b660:     SizeOfImage:     0x268000 (2523136)
+43e4.b660:     Resource Dir:    0x1ec000 LB 0x7a088
+43e4.b660:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x1ec0f0 LB 0x380, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     Microsoft® Windows® Operating System
+43e4.b660:     ProductVersion:  10.0.26100.7019
+43e4.b660:     FileVersion:     10.0.26100.7019 (WinBuild.160101.0800)
+43e4.b660:     FileDescription: NT Layer DLL
+43e4.b660: \SystemRoot\System32\kernel32.dll:
+43e4.b660:     CreationTime:    2025-11-12T12:17:20.949658300Z
+43e4.b660:     LastWriteTime:   2025-11-12T12:17:20.982093300Z
+43e4.b660:     ChangeTime:      2025-11-17T08:30:24.001350500Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0xcc220
+43e4.b660:     NT Headers:      0xf8
+43e4.b660:     Timestamp:       0xada78569
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0xada78569
+43e4.b660:     Image Version:   10.0
+43e4.b660:     SizeOfImage:     0xc9000 (823296)
+43e4.b660:     Resource Dir:    0xc7000 LB 0x520
+43e4.b660:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0xc70b0 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     Microsoft® Windows® Operating System
+43e4.b660:     ProductVersion:  10.0.26100.7019
+43e4.b660:     FileVersion:     10.0.26100.7019 (WinBuild.160101.0800)
+43e4.b660:     FileDescription: Windows NT BASE API Client DLL
+43e4.b660: \SystemRoot\System32\KernelBase.dll:
+43e4.b660:     CreationTime:    2025-11-12T12:17:21.030103600Z
+43e4.b660:     LastWriteTime:   2025-11-12T12:17:21.312003500Z
+43e4.b660:     ChangeTime:      2025-11-17T08:30:10.295919200Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x3fa3a8
+43e4.b660:     NT Headers:      0xf8
+43e4.b660:     Timestamp:       0xb1a43a46
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0xb1a43a46
+43e4.b660:     Image Version:   10.0
+43e4.b660:     SizeOfImage:     0x3f8000 (4161536)
+43e4.b660:     Resource Dir:    0x3bf000 LB 0x548
+43e4.b660:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x3bf0b0 LB 0x3bc, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     Microsoft® Windows® Operating System
+43e4.b660:     ProductVersion:  10.0.26100.7171
+43e4.b660:     FileVersion:     10.0.26100.7171 (WinBuild.160101.0800)
+43e4.b660:     FileDescription: Windows NT BASE API Client DLL
+43e4.b660: \SystemRoot\System32\apisetschema.dll:
+43e4.b660:     CreationTime:    2025-11-12T12:16:56.900207500Z
+43e4.b660:     LastWriteTime:   2025-11-12T12:16:56.909010000Z
+43e4.b660:     ChangeTime:      2025-11-17T08:30:12.593526600Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x25590
+43e4.b660:     NT Headers:      0xd8
+43e4.b660:     Timestamp:       0xcb8bc2c7
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0xcb8bc2c7
+43e4.b660:     Image Version:   10.0
+43e4.b660:     SizeOfImage:     0x24000 (147456)
+43e4.b660:     Resource Dir:    0x23000 LB 0x408
+43e4.b660:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x23060 LB 0x3a8, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     Microsoft® Windows® Operating System
+43e4.b660:     ProductVersion:  10.0.26100.7019
+43e4.b660:     FileVersion:     10.0.26100.7019 (WinBuild.160101.0800)
+43e4.b660:     FileDescription: ApiSet Schema DLL
+43e4.b660: Found driver cfwids (0x20)
+43e4.b660: Found driver mfencbdc (0x20)
+43e4.b660: Found driver mfewfpk (0x20)
+43e4.b660: Found driver mfehidk (0x20)
+43e4.b660: Found driver mfeavfk (0x20)
+43e4.b660: Found driver mfefirek (0x20)
+43e4.b660: supR3HardenedWinFindAdversaries: 0x20
+43e4.b660: \SystemRoot\System32\drivers\cfwids.sys:
+43e4.b660:     CreationTime:    2019-01-22T07:21:18.000000000Z
+43e4.b660:     LastWriteTime:   2020-04-09T13:15:22.000000000Z
+43e4.b660:     ChangeTime:      2025-05-10T10:10:35.495528400Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x127b8
+43e4.b660:     NT Headers:      0xf0
+43e4.b660:     Timestamp:       0x5e7a0da1
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0x5e7a0da1
+43e4.b660:     Image Version:   0.0
+43e4.b660:     SizeOfImage:     0x14000 (81920)
+43e4.b660:     Resource Dir:    0x12000 LB 0x550
+43e4.b660:     [Version info resource found at 0x80! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x120a0 LB 0x318, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     SYSCORE
+43e4.b660:     ProductVersion:  20.4.0.155
+43e4.b660:     FileVersion:     SYSCORE.20.4.0.155
+43e4.b660:     PrivateBuild:    SYSCORE.20.4.0.155
+43e4.b660:     FileDescription: McAfee Personal Firewall IDS Plugin
+43e4.b660: \SystemRoot\System32\drivers\mfeavfk.sys:
+43e4.b660:     CreationTime:    2019-01-22T07:21:18.000000000Z
+43e4.b660:     LastWriteTime:   2020-04-09T13:15:22.000000000Z
+43e4.b660:     ChangeTime:      2025-05-10T10:10:35.213634900Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x5d5b8
+43e4.b660:     NT Headers:      0xe8
+43e4.b660:     Timestamp:       0x5e7a0d35
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0x5e7a0d35
+43e4.b660:     Image Version:   0.0
+43e4.b660:     SizeOfImage:     0x5e000 (385024)
+43e4.b660:     Resource Dir:    0x5c000 LB 0x758
+43e4.b660:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x5c110 LB 0x334, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     SYSCORE
+43e4.b660:     ProductVersion:  20.4.0.155
+43e4.b660:     FileVersion:     SYSCORE.20.4.0.155
+43e4.b660:     PrivateBuild:    SYSCORE.20.4.0.155 F15,F16,F19
+43e4.b660:     FileDescription: Anti-Virus File System Filter Driver
+43e4.b660: \SystemRoot\System32\drivers\mfefirek.sys:
+43e4.b660:     CreationTime:    2019-01-22T07:21:18.000000000Z
+43e4.b660:     LastWriteTime:   2020-04-09T13:15:22.000000000Z
+43e4.b660:     ChangeTime:      2025-05-10T10:10:35.147097100Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x7f5b0
+43e4.b660:     NT Headers:      0xe0
+43e4.b660:     Timestamp:       0x5e7a0d81
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0x5e7a0d81
+43e4.b660:     Image Version:   0.0
+43e4.b660:     SizeOfImage:     0x81000 (528384)
+43e4.b660:     Resource Dir:    0x7d000 LB 0x388
+43e4.b660:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x7d060 LB 0x328, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     SYSCORE
+43e4.b660:     ProductVersion:  20.4.0.155
+43e4.b660:     FileVersion:     SYSCORE.20.4.0.155
+43e4.b660:     PrivateBuild:    SYSCORE.20.4.0.155 F17,F18
+43e4.b660:     FileDescription: McAfee Core Firewall Engine Driver
+43e4.b660: \SystemRoot\System32\drivers\mfehidk.sys:
+43e4.b660:     CreationTime:    2021-12-26T15:49:28.031626700Z
+43e4.b660:     LastWriteTime:   2020-04-09T13:15:22.000000000Z
+43e4.b660:     ChangeTime:      2025-05-10T10:10:34.548668200Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0xf45b0
+43e4.b660:     NT Headers:      0xf8
+43e4.b660:     Timestamp:       0x5e7a0d05
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0x5e7a0d05
+43e4.b660:     Image Version:   0.0
+43e4.b660:     SizeOfImage:     0xfe000 (1040384)
+43e4.b660:     Resource Dir:    0xfa000 LB 0x758
+43e4.b660:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0xfa110 LB 0x320, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     SYSCORE
+43e4.b660:     ProductVersion:  20.4.0.155
+43e4.b660:     FileVersion:     SYSCORE.20.4.0.155
+43e4.b660:     PrivateBuild:    SYSCORE.20.4.0.155 F14,F15,F16,F18,F20
+43e4.b660:     FileDescription: McAfee Link Driver
+43e4.b660: \SystemRoot\System32\drivers\mfencbdc.sys:
+43e4.b660:     CreationTime:    2020-05-01T06:55:06.000000000Z
+43e4.b660:     LastWriteTime:   2020-05-01T06:55:06.000000000Z
+43e4.b660:     ChangeTime:      2025-05-10T10:56:39.321339600Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x91688
+43e4.b660:     NT Headers:      0xe0
+43e4.b660:     Timestamp:       0x5e4d96a0
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0x5e4d96a0
+43e4.b660:     Image Version:   0.0
+43e4.b660:     SizeOfImage:     0x95000 (610304)
+43e4.b660:     Resource Dir:    0x93000 LB 0x458
+43e4.b660:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x93060 LB 0x3f4, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     Anti-Malware Core
+43e4.b660:     ProductVersion:  20.3.0          
+43e4.b660:     FileVersion:     Anti-Malware Core.20.3.0.108.x64
+43e4.b660:     PrivateBuild:    Anti-Malware Core.20.3.0.108.x64
+43e4.b660:     FileDescription: Event Driver
+43e4.b660: \SystemRoot\System32\drivers\mfewfpk.sys:
+43e4.b660:     CreationTime:    2021-12-26T15:49:28.047248100Z
+43e4.b660:     LastWriteTime:   2020-04-09T13:15:22.000000000Z
+43e4.b660:     ChangeTime:      2025-05-10T10:10:33.581429200Z
+43e4.b660:     FileAttributes:  0x20
+43e4.b660:     Size:            0x3d9b0
+43e4.b660:     NT Headers:      0xf0
+43e4.b660:     Timestamp:       0x5e7a0d11
+43e4.b660:     Machine:         0x8664 - amd64
+43e4.b660:     Timestamp:       0x5e7a0d11
+43e4.b660:     Image Version:   0.0
+43e4.b660:     SizeOfImage:     0x59000 (364544)
+43e4.b660:     Resource Dir:    0x57000 LB 0x380
+43e4.b660:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+43e4.b660:     [Raw version resource data: 0x57060 LB 0x320, codepage 0x0 (reserved 0x0)]
+43e4.b660:     ProductName:     SYSCORE
+43e4.b660:     ProductVersion:  20.4.0.155
+43e4.b660:     FileVersion:     SYSCORE.20.4.0.155
+43e4.b660:     PrivateBuild:    SYSCORE.20.4.0.155 F17,F18
+43e4.b660:     FileDescription: Anti-Virus Mini-Firewall Driver
+43e4.b660: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+43e4.b660: Calling main()
+43e4.b660: SUPR3HardenedMain: pszProgName=VirtualBoxVM fFlags=0x2
+43e4.b660: supR3HardenedWinInitAppBin(0x2): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+43e4.b660: SUPR3HardenedMain: Respawn #1
+43e4.b660: System32:  \Device\HarddiskVolume3\Windows\System32
+43e4.b660: WinSxS:    \Device\HarddiskVolume3\Windows\WinSxS
+43e4.b660: KnownDllPath: C:\WINDOWS\System32
+43e4.b660: supR3HardenedWinInit: Performing a limited self purification...
+43e4.b660: supHardNtVpScanVirtualMemory: enmKind=SELF_PURIFICATION
+43e4.b660:  *0000000000000000-000000007ffdffff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000007ffe0000-000000007ffe0fff 0x0002/0x0002 0x0020000
+43e4.b660:   000000007ffe1000-000000007ffeefff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000007ffef000-000000007ffeffff 0x0002/0x0002 0x0020000
+43e4.b660:   000000007fff0000-000000d1c3acffff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000d1c3ad0000-000000d1c3b80fff 0x0000/0x0004 0x0020000
+43e4.b660:   000000d1c3b81000-000000d1c3b83fff 0x0104/0x0004 0x0020000
+43e4.b660:   000000d1c3b84000-000000d1c3bcffff 0x0004/0x0004 0x0020000
+43e4.b660:   000000d1c3bd0000-000000d1c3bfffff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000d1c3c00000-000000d1c3cdefff 0x0000/0x0004 0x0020000
+43e4.b660:   000000d1c3cdf000-000000d1c3ce1fff 0x0004/0x0004 0x0020000
+43e4.b660:   000000d1c3ce2000-000000d1c3dfffff 0x0000/0x0004 0x0020000
+43e4.b660:   000000d1c3e00000-0000028bdddeffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdddf0000-0000028bdddf0fff 0x0004/0x0004 0x0040000
+43e4.b660:   0000028bdddf1000-0000028bdddf1fff 0x0000/0x0004 0x0040000
+43e4.b660:   0000028bdddf2000-0000028bdddfffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdde00000-0000028bdde0ffff 0x0004/0x0004 0x0040000
+43e4.b660:  *0000028bdde10000-0000028bdde2ffff 0x0002/0x0002 0x0040000
+43e4.b660:  *0000028bdde30000-0000028bdde33fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bdde34000-0000028bdde3ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdde40000-0000028bdde40fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bdde41000-0000028bdde4ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdde50000-0000028bdde51fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bdde52000-0000028bdde5ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdde60000-0000028bdde62fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bdde63000-0000028bdde6ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdde70000-0000028bdde77fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bdde78000-0000028bdde7ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdde80000-0000028bdde87fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bdde88000-0000028bdde8ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bdde90000-0000028bdde91fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bdde92000-0000028bdde9ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bddea0000-0000028bddea1fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bddea2000-0000028bddeaffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bddeb0000-0000028bddeb2fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bddeb3000-0000028bddebffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bddec0000-0000028bddf92fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028bddf93000-0000028bddffffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028bde000000-0000028bde001fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde002000-0000028bde0fffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde100000-0000028bde111fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde112000-0000028bde112fff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde113000-0000028bde118fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde119000-0000028bde127fff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde128000-0000028bde12afff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde12b000-0000028bde1fffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde200000-0000028bde200fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde201000-0000028bde2fffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde300000-0000028bde302fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde303000-0000028bde3fffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde400000-0000028bde401fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde402000-0000028bde4fffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde500000-0000028bde511fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde512000-0000028bde512fff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde513000-0000028bde52efff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde52f000-0000028bde52ffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bde530000-0000028bde53ffff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bde540000-0000028bdeffffff 0x0000/0x0004 0x0020000
+43e4.b660:  *0000028bdf000000-0000028bdf001fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bdf002000-0000028bdf00ffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028bdf010000-0000028bdf277fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028bdf278000-0000028bdfffffff 0x0000/0x0004 0x0020000
+43e4.b660:   0000028be0000000-00007df49169ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007df4916a0000-00007df4916a4fff 0x0002/0x0002 0x0040000
+43e4.b660:   00007df4916a5000-00007df49179ffff 0x0000/0x0002 0x0040000
+43e4.b660:  *00007df4917a0000-00007df49691afff 0x0000/0x0004 0x0020000
+43e4.b660:   00007df49691b000-00007df49691bfff 0x0004/0x0004 0x0020000
+43e4.b660:   00007df49691c000-00007df59179ffff 0x0000/0x0004 0x0020000
+43e4.b660:   00007df5917a0000-00007df5917a0fff 0x0004/0x0004 0x0020000
+43e4.b660:   00007df5917a1000-00007df5917bffff 0x0000/0x0004 0x0020000
+43e4.b660:  *00007df5917c0000-00007df591861fff 0x0000/0x0004 0x0020000
+43e4.b660:   00007df591862000-00007df591862fff 0x0004/0x0004 0x0020000
+43e4.b660:   00007df591863000-00007df5937bffff 0x0000/0x0004 0x0020000
+43e4.b660:   00007df5937c0000-00007df5937c0fff 0x0004/0x0004 0x0020000
+43e4.b660:   00007df5937c1000-00007df5937cffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007df5937d0000-00007df5937d0fff 0x0002/0x0002 0x0040000
+43e4.b660:   00007df5937d1000-00007df5937dffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007df5937e0000-00007df594e02fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007df594e03000-00007df594f5cfff 0x0001/0x0001 0x0040000
+43e4.b660:   00007df594f5d000-00007df5955a3fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007df5955a4000-00007df5955a4fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007df5955a5000-00007ff56b9b5fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff56b9b6000-00007ff56b9bafff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff56b9bb000-00007ff5737dffff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff5737e0000-00007ff576c1efff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff576c1f000-00007ff576c21fff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff576c22000-00007ff576cf8fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff576cf9000-00007ff576d09fff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff576d0a000-00007ff576d22fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff576d23000-00007ff576d26fff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff576d27000-00007ff576da8fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff576da9000-00007ff576db2fff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff576db3000-00007ff591408fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff591409000-00007ff5937dffff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff5937e0000-00007ff60758ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff607590000-00007ff607590fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607591000-00007ff6075fbfff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff6075fc000-00007ff6075fcfff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff6075fd000-00007ff607651fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607652000-00007ff607654fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607655000-00007ff607658fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607659000-00007ff60765dfff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60765e000-00007ff60765efff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60765f000-00007ff607699fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60769a000-00007ff8d0fbffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff8d0fc0000-00007ff8d0fc0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\apphelp.dll
+43e4.b660:   00007ff8d0fc1000-00007ff8d101afff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\apphelp.dll
+43e4.b660:   00007ff8d101b000-00007ff8d1040fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\apphelp.dll
+43e4.b660:   00007ff8d1041000-00007ff8d1042fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\apphelp.dll
+43e4.b660:   00007ff8d1043000-00007ff8d105efff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\apphelp.dll
+43e4.b660:   00007ff8d105f000-00007ff8d464ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff8d4650000-00007ff8d4650fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d4651000-00007ff8d47fcfff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d47fd000-00007ff8d49effff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d49f0000-00007ff8d49f3fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d49f4000-00007ff8d49f4fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d49f5000-00007ff8d49f8fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d49f9000-00007ff8d49f9fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d49fa000-00007ff8d49fafff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d49fb000-00007ff8d4a47fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+43e4.b660:   00007ff8d4a48000-00007ff8d50effff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff8d50f0000-00007ff8d50f0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+43e4.b660:   00007ff8d50f1000-00007ff8d5176fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+43e4.b660:   00007ff8d5177000-00007ff8d51aefff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+43e4.b660:   00007ff8d51af000-00007ff8d51b0fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+43e4.b660:   00007ff8d51b1000-00007ff8d51b8fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+43e4.b660:   00007ff8d51b9000-00007ff8d723ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff8d7240000-00007ff8d7240fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7241000-00007ff8d73b2fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d73b3000-00007ff8d740bfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d740c000-00007ff8d7415fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7416000-00007ff8d74a7fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d74a8000-00007ffffffeffff 0x0001/0x0000 0x0000000
+43e4.b660: kernel32.dll: timestamp 0xada78569 (rc=VINF_SUCCESS)
+43e4.b660: kernelbase.dll: timestamp 0xb1a43a46 (rc=VINF_SUCCESS)
+43e4.b660: apphelp.dll: timestamp 0xf4e19973 (rc=VINF_SUCCESS)
+43e4.b660: VirtualBoxVM.exe: timestamp 0x68f21b4f (rc=VINF_SUCCESS)
+43e4.b660: '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe' has no imports
+43e4.b660: VirtualBoxVM.exe: Differences in section #7 (.00cfg) between file and memory:
+43e4.b660:   00007ff607666000 / 0x00d6000: 50 != 90
+43e4.b660:   00007ff607666001 / 0x00d6001: e9 != 17
+43e4.b660:   00007ff607666002 / 0x00d6002: 5a != 36
+43e4.b660:   00007ff607666003 / 0x00d6003: 07 != d7
+43e4.b660:   00007ff607666004 / 0x00d6004: f6 != f8
+43e4.b660:   00007ff607666008 / 0x00d6008: 50 != 90
+43e4.b660:   00007ff607666009 / 0x00d6009: e9 != 17
+43e4.b660:   00007ff60766600a / 0x00d600a: 5a != 36
+43e4.b660:   00007ff60766600b / 0x00d600b: 07 != d7
+43e4.b660:   00007ff60766600c / 0x00d600c: f6 != f8
+43e4.b660:   00007ff607666010 / 0x00d6010: a0 != 30
+43e4.b660:   00007ff607666011 / 0x00d6011: bc != 18
+43e4.b660:   00007ff607666012 / 0x00d6012: 5f != 36
+43e4.b660:   00007ff607666013 / 0x00d6013: 07 != d7
+43e4.b660:   00007ff607666014 / 0x00d6014: f6 != f8
+43e4.b660:   00007ff607666018 / 0x00d6018: c0 != 30
+43e4.b660:   00007ff607666019 / 0x00d6019: bc != 18
+43e4.b660:   00007ff60766601a / 0x00d601a: 5f != 36
+43e4.b660:   00007ff60766601b / 0x00d601b: 07 != d7
+43e4.b660:   00007ff60766601c / 0x00d601c: f6 != f8
+43e4.b660:   00007ff607666020 / 0x00d6020: c0 != 30
+43e4.b660:   00007ff607666021 / 0x00d6021: bc != 18
+43e4.b660:   00007ff607666022 / 0x00d6022: 5f != 36
+43e4.b660:   00007ff607666023 / 0x00d6023: 07 != d7
+43e4.b660:   00007ff607666024 / 0x00d6024: f6 != f8
+43e4.b660:   Restored 0x30 bytes of original file content at 00007ff607666000
+43e4.b660: VirtualBoxVM.exe: Differences in section #8 (.rsrc) between file and memory:
+43e4.b660:   00007ff607697b70 / 0x0107b70: 00 != 50
+43e4.b660:   00007ff607697b71 / 0x0107b71: 00 != 41
+43e4.b660:   00007ff607697b72 / 0x0107b72: 00 != 44
+43e4.b660:   00007ff607697b73 / 0x0107b73: 00 != 44
+43e4.b660:   00007ff607697b74 / 0x0107b74: 00 != 49
+43e4.b660:   00007ff607697b75 / 0x0107b75: 00 != 4e
+43e4.b660:   00007ff607697b76 / 0x0107b76: 00 != 47
+43e4.b660:   00007ff607697b77 / 0x0107b77: 00 != 58
+43e4.b660:   00007ff607697b78 / 0x0107b78: 00 != 58
+43e4.b660:   00007ff607697b79 / 0x0107b79: 00 != 50
+43e4.b660:   00007ff607697b7a / 0x0107b7a: 00 != 41
+43e4.b660:   00007ff607697b7b / 0x0107b7b: 00 != 44
+43e4.b660:   00007ff607697b7c / 0x0107b7c: 00 != 44
+43e4.b660:   00007ff607697b7d / 0x0107b7d: 00 != 49
+43e4.b660:   00007ff607697b7e / 0x0107b7e: 00 != 4e
+43e4.b660:   00007ff607697b7f / 0x0107b7f: 00 != 47
+43e4.b660:   00007ff607697b80 / 0x0107b80: 00 != 50
+43e4.b660:   00007ff607697b81 / 0x0107b81: 00 != 41
+43e4.b660:   00007ff607697b82 / 0x0107b82: 00 != 44
+43e4.b660:   00007ff607697b83 / 0x0107b83: 00 != 44
+43e4.b660:   00007ff607697b84 / 0x0107b84: 00 != 49
+43e4.b660:   00007ff607697b85 / 0x0107b85: 00 != 4e
+43e4.b660:   00007ff607697b86 / 0x0107b86: 00 != 47
+43e4.b660:   00007ff607697b87 / 0x0107b87: 00 != 58
+43e4.b660:   00007ff607697b88 / 0x0107b88: 00 != 58
+43e4.b660:   00007ff607697b89 / 0x0107b89: 00 != 50
+43e4.b660:   00007ff607697b8a / 0x0107b8a: 00 != 41
+43e4.b660:   00007ff607697b8b / 0x0107b8b: 00 != 44
+43e4.b660:   00007ff607697b8c / 0x0107b8c: 00 != 44
+43e4.b660:   00007ff607697b8d / 0x0107b8d: 00 != 49
+43e4.b660:   00007ff607697b8e / 0x0107b8e: 00 != 4e
+43e4.b660:   00007ff607697b8f / 0x0107b8f: 00 != 47
+43e4.b660:   00007ff607697b90 / 0x0107b90: 00 != 50
+43e4.b660:   00007ff607697b91 / 0x0107b91: 00 != 41
+43e4.b660:   00007ff607697b92 / 0x0107b92: 00 != 44
+43e4.b660:   00007ff607697b93 / 0x0107b93: 00 != 44
+43e4.b660:   00007ff607697b94 / 0x0107b94: 00 != 49
+43e4.b660:   00007ff607697b95 / 0x0107b95: 00 != 4e
+43e4.b660:   00007ff607697b96 / 0x0107b96: 00 != 47
+43e4.b660:   00007ff607697b97 / 0x0107b97: 00 != 58
+43e4.b660:   00007ff607697b98 / 0x0107b98: 00 != 58
+43e4.b660:   00007ff607697b99 / 0x0107b99: 00 != 50
+43e4.b660:   00007ff607697b9a / 0x0107b9a: 00 != 41
+43e4.b660:   00007ff607697b9b / 0x0107b9b: 00 != 44
+43e4.b660:   00007ff607697b9c / 0x0107b9c: 00 != 44
+43e4.b660:   00007ff607697b9d / 0x0107b9d: 00 != 49
+43e4.b660:   00007ff607697b9e / 0x0107b9e: 00 != 4e
+43e4.b660:   00007ff607697b9f / 0x0107b9f: 00 != 47
+43e4.b660:   00007ff607697ba0 / 0x0107ba0: 00 != 50
+43e4.b660:   00007ff607697ba1 / 0x0107ba1: 00 != 41
+43e4.b660:   00007ff607697ba2 / 0x0107ba2: 00 != 44
+43e4.b660:   00007ff607697ba3 / 0x0107ba3: 00 != 44
+43e4.b660:   00007ff607697ba4 / 0x0107ba4: 00 != 49
+43e4.b660:   00007ff607697ba5 / 0x0107ba5: 00 != 4e
+43e4.b660:   00007ff607697ba6 / 0x0107ba6: 00 != 47
+43e4.b660:   00007ff607697ba7 / 0x0107ba7: 00 != 58
+43e4.b660:   00007ff607697ba8 / 0x0107ba8: 00 != 58
+43e4.b660:   00007ff607697ba9 / 0x0107ba9: 00 != 50
+43e4.b660:   00007ff607697baa / 0x0107baa: 00 != 41
+43e4.b660:   00007ff607697bab / 0x0107bab: 00 != 44
+43e4.b660:   00007ff607697bac / 0x0107bac: 00 != 44
+43e4.b660:   00007ff607697bad / 0x0107bad: 00 != 49
+43e4.b660:   00007ff607697bae / 0x0107bae: 00 != 4e
+43e4.b660:   00007ff607697baf / 0x0107baf: 00 != 47
+43e4.b660:   00007ff607697bb0 / 0x0107bb0: 00 != 50
+43e4.b660:   00007ff607697bb1 / 0x0107bb1: 00 != 41
+43e4.b660:   00007ff607697bb2 / 0x0107bb2: 00 != 44
+43e4.b660:   00007ff607697bb3 / 0x0107bb3: 00 != 44
+43e4.b660:   00007ff607697bb4 / 0x0107bb4: 00 != 49
+43e4.b660:   00007ff607697bb5 / 0x0107bb5: 00 != 4e
+43e4.b660:   00007ff607697bb6 / 0x0107bb6: 00 != 47
+43e4.b660:   00007ff607697bb7 / 0x0107bb7: 00 != 58
+43e4.b660:   00007ff607697bb8 / 0x0107bb8: 00 != 58
+43e4.b660:   00007ff607697bb9 / 0x0107bb9: 00 != 50
+43e4.b660:   00007ff607697bba / 0x0107bba: 00 != 41
+43e4.b660:   00007ff607697bbb / 0x0107bbb: 00 != 44
+43e4.b660:   00007ff607697bbc / 0x0107bbc: 00 != 44
+43e4.b660:   00007ff607697bbd / 0x0107bbd: 00 != 49
+43e4.b660:   00007ff607697bbe / 0x0107bbe: 00 != 4e
+43e4.b660:   00007ff607697bbf / 0x0107bbf: 00 != 47
+43e4.b660:   00007ff607697bc0 / 0x0107bc0: 00 != 50
+43e4.b660:   00007ff607697bc1 / 0x0107bc1: 00 != 41
+43e4.b660:   00007ff607697bc2 / 0x0107bc2: 00 != 44
+43e4.b660:   00007ff607697bc3 / 0x0107bc3: 00 != 44
+43e4.b660:   00007ff607697bc4 / 0x0107bc4: 00 != 49
+43e4.b660:   00007ff607697bc5 / 0x0107bc5: 00 != 4e
+43e4.b660:   00007ff607697bc6 / 0x0107bc6: 00 != 47
+43e4.b660:   00007ff607697bc7 / 0x0107bc7: 00 != 58
+43e4.b660:   00007ff607697bc8 / 0x0107bc8: 00 != 58
+43e4.b660:   00007ff607697bc9 / 0x0107bc9: 00 != 50
+43e4.b660:   00007ff607697bca / 0x0107bca: 00 != 41
+43e4.b660:   00007ff607697bcb / 0x0107bcb: 00 != 44
+43e4.b660:   00007ff607697bcc / 0x0107bcc: 00 != 44
+43e4.b660:   00007ff607697bcd / 0x0107bcd: 00 != 49
+43e4.b660:   00007ff607697bce / 0x0107bce: 00 != 4e
+43e4.b660:   00007ff607697bcf / 0x0107bcf: 00 != 47
+43e4.b660:   00007ff607697bd0 / 0x0107bd0: 00 != 50
+43e4.b660:   00007ff607697bd1 / 0x0107bd1: 00 != 41
+43e4.b660:   00007ff607697bd2 / 0x0107bd2: 00 != 44
+43e4.b660:   00007ff607697bd3 / 0x0107bd3: 00 != 44
+43e4.b660:   00007ff607697bd4 / 0x0107bd4: 00 != 49
+43e4.b660:   00007ff607697bd5 / 0x0107bd5: 00 != 4e
+43e4.b660:   00007ff607697bd6 / 0x0107bd6: 00 != 47
+43e4.b660:   00007ff607697bd7 / 0x0107bd7: 00 != 58
+43e4.b660:   00007ff607697bd8 / 0x0107bd8: 00 != 58
+43e4.b660:   00007ff607697bd9 / 0x0107bd9: 00 != 50
+43e4.b660:   00007ff607697bda / 0x0107bda: 00 != 41
+43e4.b660:   00007ff607697bdb / 0x0107bdb: 00 != 44
+43e4.b660:   00007ff607697bdc / 0x0107bdc: 00 != 44
+43e4.b660:   00007ff607697bdd / 0x0107bdd: 00 != 49
+43e4.b660:   00007ff607697bde / 0x0107bde: 00 != 4e
+43e4.b660:   00007ff607697bdf / 0x0107bdf: 00 != 47
+43e4.b660:   00007ff607697be0 / 0x0107be0: 00 != 50
+43e4.b660:   00007ff607697be1 / 0x0107be1: 00 != 41
+43e4.b660:   00007ff607697be2 / 0x0107be2: 00 != 44
+43e4.b660:   00007ff607697be3 / 0x0107be3: 00 != 44
+43e4.b660:   00007ff607697be4 / 0x0107be4: 00 != 49
+43e4.b660:   00007ff607697be5 / 0x0107be5: 00 != 4e
+43e4.b660:   00007ff607697be6 / 0x0107be6: 00 != 47
+43e4.b660:   00007ff607697be7 / 0x0107be7: 00 != 58
+43e4.b660:   00007ff607697be8 / 0x0107be8: 00 != 58
+43e4.b660:   00007ff607697be9 / 0x0107be9: 00 != 50
+43e4.b660:   00007ff607697bea / 0x0107bea: 00 != 41
+43e4.b660:   00007ff607697beb / 0x0107beb: 00 != 44
+43e4.b660:   00007ff607697bec / 0x0107bec: 00 != 44
+43e4.b660:   00007ff607697bed / 0x0107bed: 00 != 49
+43e4.b660:   00007ff607697bee / 0x0107bee: 00 != 4e
+43e4.b660:   00007ff607697bef / 0x0107bef: 00 != 47
+43e4.b660:   00007ff607697bf0 / 0x0107bf0: 00 != 50
+43e4.b660:   00007ff607697bf1 / 0x0107bf1: 00 != 41
+43e4.b660:   00007ff607697bf2 / 0x0107bf2: 00 != 44
+43e4.b660:   00007ff607697bf3 / 0x0107bf3: 00 != 44
+43e4.b660:   00007ff607697bf4 / 0x0107bf4: 00 != 49
+43e4.b660:   00007ff607697bf5 / 0x0107bf5: 00 != 4e
+43e4.b660:   00007ff607697bf6 / 0x0107bf6: 00 != 47
+43e4.b660:   00007ff607697bf7 / 0x0107bf7: 00 != 58
+43e4.b660:   00007ff607697bf8 / 0x0107bf8: 00 != 58
+43e4.b660:   00007ff607697bf9 / 0x0107bf9: 00 != 50
+43e4.b660:   00007ff607697bfa / 0x0107bfa: 00 != 41
+43e4.b660:   00007ff607697bfb / 0x0107bfb: 00 != 44
+43e4.b660:   00007ff607697bfc / 0x0107bfc: 00 != 44
+43e4.b660:   00007ff607697bfd / 0x0107bfd: 00 != 49
+43e4.b660:   00007ff607697bfe / 0x0107bfe: 00 != 4e
+43e4.b660:   00007ff607697bff / 0x0107bff: 00 != 47
+43e4.b660:   Restored 0x490 bytes of original file content at 00007ff607697b70
+43e4.b660: '\Device\HarddiskVolume3\Windows\System32\ntdll.dll' has no imports
+43e4.b660: ntdll.dll: Differences in section #13 (.00cfg) between file and memory:
+43e4.b660:   00007ff8d742b000 / 0x01eb000: 80 != 30
+43e4.b660:   00007ff8d742b001 / 0x01eb001: 73 != 18
+43e4.b660:   00007ff8d742b002 / 0x01eb002: 3a != 36
+43e4.b660:   00007ff8d742b008 / 0x01eb008: a0 != 90
+43e4.b660:   00007ff8d742b009 / 0x01eb009: b4 != 17
+43e4.b660:   00007ff8d742b00a / 0x01eb00a: 33 != 36
+43e4.b660:   00007ff8d742b010 / 0x01eb010: b0 != 30
+43e4.b660:   00007ff8d742b011 / 0x01eb011: 73 != 18
+43e4.b660:   00007ff8d742b012 / 0x01eb012: 3a != 36
+43e4.b660:   00007ff8d742b018 / 0x01eb018: b0 != 30
+43e4.b660:   00007ff8d742b019 / 0x01eb019: 73 != 18
+43e4.b660:   00007ff8d742b01a / 0x01eb01a: 3a != 36
+43e4.b660:   Restored 0x28 bytes of original file content at 00007ff8d742b000
+43e4.b660: kernel32.dll: Differences in section #3 (.rdata) between file and memory:
+43e4.b660:   00007ff8d5179ca8 / 0x0089ca8: b0 != 20
+43e4.b660:   00007ff8d5179ca9 / 0x0089ca9: f6 != 2c
+43e4.b660:   00007ff8d5179caa / 0x0089caa: 68 != fe
+43e4.b660:   00007ff8d5179cab / 0x0089cab: d4 != d0
+43e4.b660:   Restored 0x2000 bytes of original file content at 00007ff8d5179000
+43e4.b660: kernel32.dll: Differences in section #3 (.rdata) between file and memory:
+43e4.b660:   00007ff8d517b388 / 0x008b388: 90 != 00
+43e4.b660:   00007ff8d517b389 / 0x008b389: 21 != ee
+43e4.b660:   00007ff8d517b38a / 0x008b38a: 3a != fd
+43e4.b660:   00007ff8d517b38b / 0x008b38b: d7 != d0
+43e4.b660:   00007ff8d517b428 / 0x008b428: a0 != 70
+43e4.b660:   00007ff8d517b429 / 0x008b429: 28 != 8e
+43e4.b660:   00007ff8d517b42a / 0x008b42a: 3a != fe
+43e4.b660:   00007ff8d517b42b / 0x008b42b: d7 != d0
+43e4.b660:   00007ff8d517b518 / 0x008b518: 50 != e0
+43e4.b660:   00007ff8d517b519 / 0x008b519: 27 != f0
+43e4.b660:   00007ff8d517b51a / 0x008b51a: 3a != fd
+43e4.b660:   00007ff8d517b51b / 0x008b51b: d7 != d0
+43e4.b660:   00007ff8d517b900 / 0x008b900: 50 != e0
+43e4.b660:   00007ff8d517b901 / 0x008b901: 27 != f0
+43e4.b660:   00007ff8d517b902 / 0x008b902: 3a != fd
+43e4.b660:   00007ff8d517b903 / 0x008b903: d7 != d0
+43e4.b660:   00007ff8d517ba60 / 0x008ba60: c0 != 90
+43e4.b660:   00007ff8d517ba61 / 0x008ba61: 85 != 17
+43e4.b660:   00007ff8d517ba62 / 0x008ba62: 14 != 36
+43e4.b660:   00007ff8d517ba63 / 0x008ba63: d5 != d7
+43e4.b660:   00007ff8d517ba68 / 0x008ba68: e0 != 30
+43e4.b660:   00007ff8d517ba69 / 0x008ba69: 44 != 18
+43e4.b660:   00007ff8d517ba6a / 0x008ba6a: 17 != 36
+43e4.b660:   00007ff8d517ba6b / 0x008ba6b: d5 != d7
+43e4.b660:   00007ff8d517ba70 / 0x008ba70: c0 != 90
+43e4.b660:   00007ff8d517ba71 / 0x008ba71: 85 != 17
+43e4.b660:   00007ff8d517ba72 / 0x008ba72: 14 != 36
+43e4.b660:   00007ff8d517ba73 / 0x008ba73: d5 != d7
+43e4.b660:   00007ff8d517ba78 / 0x008ba78: 10 != 30
+43e4.b660:   00007ff8d517ba79 / 0x008ba79: 45 != 18
+43e4.b660:   00007ff8d517ba7a / 0x008ba7a: 17 != 36
+43e4.b660:   00007ff8d517ba7b / 0x008ba7b: d5 != d7
+43e4.b660:   00007ff8d517ba80 / 0x008ba80: 10 != 30
+43e4.b660:   00007ff8d517ba81 / 0x008ba81: 45 != 18
+43e4.b660:   00007ff8d517ba82 / 0x008ba82: 17 != 36
+43e4.b660:   00007ff8d517ba83 / 0x008ba83: d5 != d7
+43e4.b660:   Restored 0x2000 bytes of original file content at 00007ff8d517b000
+43e4.b660: kernelbase.dll: Differences in section #3 (.rdata) between file and memory:
+43e4.b660:   00007ff8d48e6fa8 / 0x0296fa8: 90 != 00
+43e4.b660:   00007ff8d48e6fa9 / 0x0296fa9: 21 != ee
+43e4.b660:   00007ff8d48e6faa / 0x0296faa: 3a != fd
+43e4.b660:   00007ff8d48e6fab / 0x0296fab: d7 != d0
+43e4.b660:   00007ff8d48e6fe8 / 0x0296fe8: 50 != e0
+43e4.b660:   00007ff8d48e6fe9 / 0x0296fe9: 27 != f0
+43e4.b660:   00007ff8d48e6fea / 0x0296fea: 3a != fd
+43e4.b660:   00007ff8d48e6feb / 0x0296feb: d7 != d0
+43e4.b660:   Restored 0x2000 bytes of original file content at 00007ff8d48e5000
+43e4.b660: kernelbase.dll: Differences in section #3 (.rdata) between file and memory:
+43e4.b660:   00007ff8d48e7128 / 0x0297128: a0 != 70
+43e4.b660:   00007ff8d48e7129 / 0x0297129: 28 != 8e
+43e4.b660:   00007ff8d48e712a / 0x029712a: 3a != fe
+43e4.b660:   00007ff8d48e712b / 0x029712b: d7 != d0
+43e4.b660:   00007ff8d48e7928 / 0x0297928: a0 != 70
+43e4.b660:   00007ff8d48e7929 / 0x0297929: 28 != 8e
+43e4.b660:   00007ff8d48e792a / 0x029792a: 3a != fe
+43e4.b660:   00007ff8d48e792b / 0x029792b: d7 != d0
+43e4.b660:   00007ff8d48e8578 / 0x0298578: c0 != 90
+43e4.b660:   00007ff8d48e8579 / 0x0298579: 75 != 17
+43e4.b660:   00007ff8d48e857a / 0x029857a: 77 != 36
+43e4.b660:   00007ff8d48e857b / 0x029857b: d4 != d7
+43e4.b660:   00007ff8d48e8580 / 0x0298580: a0 != 30
+43e4.b660:   00007ff8d48e8581 / 0x0298581: 94 != 18
+43e4.b660:   00007ff8d48e8582 / 0x0298582: 7e != 36
+43e4.b660:   00007ff8d48e8583 / 0x0298583: d4 != d7
+43e4.b660:   00007ff8d48e8588 / 0x0298588: c0 != 90
+43e4.b660:   00007ff8d48e8589 / 0x0298589: 75 != 17
+43e4.b660:   00007ff8d48e858a / 0x029858a: 77 != 36
+43e4.b660:   00007ff8d48e858b / 0x029858b: d4 != d7
+43e4.b660:   00007ff8d48e8590 / 0x0298590: d0 != 30
+43e4.b660:   00007ff8d48e8591 / 0x0298591: 94 != 18
+43e4.b660:   00007ff8d48e8592 / 0x0298592: 7e != 36
+43e4.b660:   00007ff8d48e8593 / 0x0298593: d4 != d7
+43e4.b660:   00007ff8d48e8598 / 0x0298598: d0 != 30
+43e4.b660:   00007ff8d48e8599 / 0x0298599: 94 != 18
+43e4.b660:   00007ff8d48e859a / 0x029859a: 7e != 36
+43e4.b660:   00007ff8d48e859b / 0x029859b: d4 != d7
+43e4.b660:   Restored 0x2000 bytes of original file content at 00007ff8d48e7000
+43e4.b660: apphelp.dll: Differences in section #3 (.rdata) between file and memory:
+43e4.b660:   00007ff8d101d520 / 0x005d520: 80 != e0
+43e4.b660:   00007ff8d101d521 / 0x005d521: 6c != 36
+43e4.b660:   00007ff8d101d522 / 0x005d522: 75 != 11
+43e4.b660:   00007ff8d101d523 / 0x005d523: d4 != d5
+43e4.b660:   00007ff8d101d528 / 0x005d528: 00 != d0
+43e4.b660:   00007ff8d101d529 / 0x005d529: ed != 82
+43e4.b660:   00007ff8d101d52a / 0x005d52a: 71 != 12
+43e4.b660:   00007ff8d101d52b / 0x005d52b: d4 != d5
+43e4.b660:   00007ff8d101d531 / 0x005d531: 40 != c6
+43e4.b660:   00007ff8d101d532 / 0x005d532: 6e != 12
+43e4.b660:   00007ff8d101d533 / 0x005d533: d4 != d5
+43e4.b660:   00007ff8d101d538 / 0x005d538: 30 != 70
+43e4.b660:   00007ff8d101d539 / 0x005d539: ca != 49
+43e4.b660:   00007ff8d101d53a / 0x005d53a: 77 != 11
+43e4.b660:   00007ff8d101d53b / 0x005d53b: d4 != d5
+43e4.b660:   00007ff8d101d540 / 0x005d540: d0 != 00
+43e4.b660:   00007ff8d101d541 / 0x005d541: 45 != 52
+43e4.b660:   00007ff8d101d542 / 0x005d542: 71 != 12
+43e4.b660:   00007ff8d101d543 / 0x005d543: d4 != d5
+43e4.b660:   00007ff8d101d548 / 0x005d548: 10 != a0
+43e4.b660:   00007ff8d101d549 / 0x005d549: 4d != 25
+43e4.b660:   00007ff8d101d54a / 0x005d54a: 75 != 13
+43e4.b660:   00007ff8d101d54b / 0x005d54b: d4 != d5
+43e4.b660:   00007ff8d101d550 / 0x005d550: c0 != 20
+43e4.b660:   00007ff8d101d551 / 0x005d551: 10 != 86
+43e4.b660:   00007ff8d101d552 / 0x005d552: 6f != 10
+43e4.b660:   00007ff8d101d553 / 0x005d553: d4 != d5
+43e4.b660:   00007ff8d101d561 / 0x005d561: fb != 3c
+43e4.b660:   00007ff8d101d562 / 0x005d562: 68 != 12
+43e4.b660:   00007ff8d101d563 / 0x005d563: d4 != d5
+43e4.b660:   00007ff8d101db60 / 0x005db60: f0 != 90
+43e4.b660:   00007ff8d101db61 / 0x005db61: 7c != 17
+43e4.b660:   00007ff8d101db62 / 0x005db62: ff != 36
+43e4.b660:   00007ff8d101db63 / 0x005db63: d0 != d7
+43e4.b660:   00007ff8d101db68 / 0x005db68: b0 != 30
+43e4.b660:   00007ff8d101db69 / 0x005db69: 8d != 18
+43e4.b660:   00007ff8d101db6a / 0x005db6a: 01 != 36
+43e4.b660:   00007ff8d101db6b / 0x005db6b: d1 != d7
+43e4.b660:   00007ff8d101db70 / 0x005db70: f0 != 90
+43e4.b660:   00007ff8d101db71 / 0x005db71: 7c != 17
+43e4.b660:   00007ff8d101db72 / 0x005db72: ff != 36
+43e4.b660:   00007ff8d101db73 / 0x005db73: d0 != d7
+43e4.b660:   00007ff8d101db78 / 0x005db78: e0 != 30
+43e4.b660:   00007ff8d101db79 / 0x005db79: 8d != 18
+43e4.b660:   00007ff8d101db7a / 0x005db7a: 01 != 36
+43e4.b660:   00007ff8d101db7b / 0x005db7b: d1 != d7
+43e4.b660:   00007ff8d101db80 / 0x005db80: e0 != 30
+43e4.b660:   00007ff8d101db81 / 0x005db81: 8d != 18
+43e4.b660:   00007ff8d101db82 / 0x005db82: 01 != 36
+43e4.b660:   00007ff8d101db83 / 0x005db83: d1 != d7
+43e4.b660:   Restored 0x2000 bytes of original file content at 00007ff8d101d000
+43e4.b660: supHardNtVpCheckHandles:
+43e4.b660: supHardNtVpCheckHandles: Marked Section handle non-inheritable: 0000000000000f80
+43e4.b660: supHardNtVpCheckHandles: Marked Section handle non-inheritable: 0000000000000f48
+43e4.b660: supHardNtVpCheckHandles: Marked Section handle non-inheritable: 0000000000000f20
+43e4.b660: supHardNtVpCheckHandles: Marked Section handle non-inheritable: 0000000000000ed0
+43e4.b660: supHardNtVpCheckHandles: Marked Section handle non-inheritable: 0000000000000e84
+43e4.b660: supR3HardenedWinInit: SUPHARDNTVPKIND_SELF_PURIFICATION_LIMITED -> VINF_SUCCESS, cFixes=13
+43e4.b660: '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe' has no imports
+43e4.b660: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe)
+43e4.b660: supR3HardNtEnableThreadCreationEx:
+43e4.b660: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ff8d7329100 pvNtTerminateThread=00007ff8d73a2710 g_LdrInitThunkSelfBackup.cb=10
+43e4.b660: supR3HardenedWinDoReSpawn(1): New child 5164.7fe0 [kernel32].
+43e4.b660: supR3HardNtChildGatherData: PebBaseAddress=000000e867aab000 cbPeb=0x388
+43e4.b660: supR3HardNtPuChFindNtdll: uNtDllParentAddr=00007ff8d7240000 uNtDllChildAddr=00007ff8d7240000
+43e4.b660: supR3HardenedWinSetupChildInit: uLdrInitThunk=00007ff8d7329100
+43e4.b660: supR3HardenedWinSetupChildInit: Initial context:
+  rax=0000000000000000 rbx=0000000000000000 rcx=00007ff60759b8e0 rdx=000000e867aab000
+  rsi=0000000000000000 rdi=0000000000000000 r8 =0000000000000000 r9 =0000000000000000
+  r10=0000000000000000 r11=0000000000000000 r12=0000000000000000 r13=0000000000000000
+  r14=0000000000000000 r15=0000000000000000  P1=0000000000000000  P2=0000000000000000
+  rip=00007ff8d72cc510 rsp=000000e867cffb48 rbp=0000000000000000    ctxflags=0010001b
+  cs=0033 ss=002b ds=0000 es=0000 fs=0000 gs=0000    eflags=00000200   mxcrx=00001f80
+   P3=0000000000000000  P4=0000000000000000  P5=0000000000000000  P6=0000000000000000
+  dr0=0000000000000000 dr1=0000000000000000 dr2=0000000000000000 dr3=0000000000000000
+  dr6=0000000000000000 dr7=0000000000000000 vcr=0000000000000000 dcr=0000000000000000
+  lbt=0000000000000000 lbf=0000000000000000 lxt=0000000000000000 lxf=0000000000000000
+43e4.b660: supR3HardenedWinSetupChildInit: Start child.
+43e4.b660: supR3HardNtChildWaitFor: Found expected request 0 (PurifyChildAndCloseHandles) after 1 ms.
+43e4.b660: supR3HardNtChildPurify: Startup delay kludge #1/0: 519 ms, 59 sleeps
+43e4.b660: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+43e4.b660:  *0000000000000000-000000007ffdffff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000007ffe0000-000000007ffe0fff 0x0002/0x0002 0x0020000
+43e4.b660:   000000007ffe1000-000000007ffeefff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000007ffef000-000000007ffeffff 0x0002/0x0002 0x0020000
+43e4.b660:   000000007fff0000-000000e8679fffff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000e867a00000-000000e867aaafff 0x0000/0x0004 0x0020000
+43e4.b660:   000000e867aab000-000000e867aadfff 0x0004/0x0004 0x0020000
+43e4.b660:   000000e867aae000-000000e867bfffff 0x0000/0x0004 0x0020000
+43e4.b660:  *000000e867c00000-000000e867cfafff 0x0000/0x0004 0x0020000
+43e4.b660:   000000e867cfb000-000000e867cfdfff 0x0104/0x0004 0x0020000
+43e4.b660:   000000e867cfe000-000000e867cfffff 0x0004/0x0004 0x0020000
+43e4.b660:   000000e867d00000-0000028466c4ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028466c50000-0000028466c6ffff 0x0004/0x0004 0x0020000
+43e4.b660:  *0000028466c70000-0000028466c8ffff 0x0002/0x0002 0x0040000
+43e4.b660:  *0000028466c90000-0000028466c93fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028466c94000-0000028466c9ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028466ca0000-0000028466ca0fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028466ca1000-0000028466caffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028466cb0000-0000028466cb1fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028466cb2000-00007df5937dffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007df5937e0000-00007df594e02fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007df594e03000-00007df594f5cfff 0x0001/0x0001 0x0040000
+43e4.b660:   00007df594f5d000-00007df5955a3fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007df5955a4000-00007df5955a4fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007df5955a5000-00007ff56b9b5fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff56b9b6000-00007ff56b9bafff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff56b9bb000-00007ff5737dffff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff5737e0000-00007ff576da8fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff576da9000-00007ff576db2fff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff576db3000-00007ff591408fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff591409000-00007ff5937dffff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff5937e0000-00007ff596e1ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff596e20000-00007ff596e20fff 0x0002/0x0002 0x0040000
+43e4.b660:   00007ff596e21000-00007ff60758ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff607590000-00007ff607590fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607591000-00007ff6075fbfff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff6075fc000-00007ff6075fcfff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff6075fd000-00007ff607651fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607652000-00007ff607652fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607653000-00007ff607653fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607654000-00007ff607659fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60765a000-00007ff60765efff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60765f000-00007ff607699fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60769a000-00007ff8d723ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff8d7240000-00007ff8d7240fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7241000-00007ff8d73b2fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d73b3000-00007ff8d740bfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d740c000-00007ff8d7415fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7416000-00007ff8d7426fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7427000-00007ff8d7429fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d742a000-00007ff8d742afff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d742b000-00007ff8d74a7fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d74a8000-00007ffffffeffff 0x0001/0x0000 0x0000000
+43e4.b660: VirtualBoxVM.exe: Differences in section #8 (.rsrc) between file and memory:
+43e4.b660:   00007ff607697b70 / 0x0107b70: 00 != 50
+43e4.b660:   00007ff607697b71 / 0x0107b71: 00 != 41
+43e4.b660:   00007ff607697b72 / 0x0107b72: 00 != 44
+43e4.b660:   00007ff607697b73 / 0x0107b73: 00 != 44
+43e4.b660:   00007ff607697b74 / 0x0107b74: 00 != 49
+43e4.b660:   00007ff607697b75 / 0x0107b75: 00 != 4e
+43e4.b660:   00007ff607697b76 / 0x0107b76: 00 != 47
+43e4.b660:   00007ff607697b77 / 0x0107b77: 00 != 58
+43e4.b660:   00007ff607697b78 / 0x0107b78: 00 != 58
+43e4.b660:   00007ff607697b79 / 0x0107b79: 00 != 50
+43e4.b660:   00007ff607697b7a / 0x0107b7a: 00 != 41
+43e4.b660:   00007ff607697b7b / 0x0107b7b: 00 != 44
+43e4.b660:   00007ff607697b7c / 0x0107b7c: 00 != 44
+43e4.b660:   00007ff607697b7d / 0x0107b7d: 00 != 49
+43e4.b660:   00007ff607697b7e / 0x0107b7e: 00 != 4e
+43e4.b660:   00007ff607697b7f / 0x0107b7f: 00 != 47
+43e4.b660:   00007ff607697b80 / 0x0107b80: 00 != 50
+43e4.b660:   00007ff607697b81 / 0x0107b81: 00 != 41
+43e4.b660:   00007ff607697b82 / 0x0107b82: 00 != 44
+43e4.b660:   00007ff607697b83 / 0x0107b83: 00 != 44
+43e4.b660:   00007ff607697b84 / 0x0107b84: 00 != 49
+43e4.b660:   00007ff607697b85 / 0x0107b85: 00 != 4e
+43e4.b660:   00007ff607697b86 / 0x0107b86: 00 != 47
+43e4.b660:   00007ff607697b87 / 0x0107b87: 00 != 58
+43e4.b660:   00007ff607697b88 / 0x0107b88: 00 != 58
+43e4.b660:   00007ff607697b89 / 0x0107b89: 00 != 50
+43e4.b660:   00007ff607697b8a / 0x0107b8a: 00 != 41
+43e4.b660:   00007ff607697b8b / 0x0107b8b: 00 != 44
+43e4.b660:   00007ff607697b8c / 0x0107b8c: 00 != 44
+43e4.b660:   00007ff607697b8d / 0x0107b8d: 00 != 49
+43e4.b660:   00007ff607697b8e / 0x0107b8e: 00 != 4e
+43e4.b660:   00007ff607697b8f / 0x0107b8f: 00 != 47
+43e4.b660:   00007ff607697b90 / 0x0107b90: 00 != 50
+43e4.b660:   00007ff607697b91 / 0x0107b91: 00 != 41
+43e4.b660:   00007ff607697b92 / 0x0107b92: 00 != 44
+43e4.b660:   00007ff607697b93 / 0x0107b93: 00 != 44
+43e4.b660:   00007ff607697b94 / 0x0107b94: 00 != 49
+43e4.b660:   00007ff607697b95 / 0x0107b95: 00 != 4e
+43e4.b660:   00007ff607697b96 / 0x0107b96: 00 != 47
+43e4.b660:   00007ff607697b97 / 0x0107b97: 00 != 58
+43e4.b660:   00007ff607697b98 / 0x0107b98: 00 != 58
+43e4.b660:   00007ff607697b99 / 0x0107b99: 00 != 50
+43e4.b660:   00007ff607697b9a / 0x0107b9a: 00 != 41
+43e4.b660:   00007ff607697b9b / 0x0107b9b: 00 != 44
+43e4.b660:   00007ff607697b9c / 0x0107b9c: 00 != 44
+43e4.b660:   00007ff607697b9d / 0x0107b9d: 00 != 49
+43e4.b660:   00007ff607697b9e / 0x0107b9e: 00 != 4e
+43e4.b660:   00007ff607697b9f / 0x0107b9f: 00 != 47
+43e4.b660:   00007ff607697ba0 / 0x0107ba0: 00 != 50
+43e4.b660:   00007ff607697ba1 / 0x0107ba1: 00 != 41
+43e4.b660:   00007ff607697ba2 / 0x0107ba2: 00 != 44
+43e4.b660:   00007ff607697ba3 / 0x0107ba3: 00 != 44
+43e4.b660:   00007ff607697ba4 / 0x0107ba4: 00 != 49
+43e4.b660:   00007ff607697ba5 / 0x0107ba5: 00 != 4e
+43e4.b660:   00007ff607697ba6 / 0x0107ba6: 00 != 47
+43e4.b660:   00007ff607697ba7 / 0x0107ba7: 00 != 58
+43e4.b660:   00007ff607697ba8 / 0x0107ba8: 00 != 58
+43e4.b660:   00007ff607697ba9 / 0x0107ba9: 00 != 50
+43e4.b660:   00007ff607697baa / 0x0107baa: 00 != 41
+43e4.b660:   00007ff607697bab / 0x0107bab: 00 != 44
+43e4.b660:   00007ff607697bac / 0x0107bac: 00 != 44
+43e4.b660:   00007ff607697bad / 0x0107bad: 00 != 49
+43e4.b660:   00007ff607697bae / 0x0107bae: 00 != 4e
+43e4.b660:   00007ff607697baf / 0x0107baf: 00 != 47
+43e4.b660:   00007ff607697bb0 / 0x0107bb0: 00 != 50
+43e4.b660:   00007ff607697bb1 / 0x0107bb1: 00 != 41
+43e4.b660:   00007ff607697bb2 / 0x0107bb2: 00 != 44
+43e4.b660:   00007ff607697bb3 / 0x0107bb3: 00 != 44
+43e4.b660:   00007ff607697bb4 / 0x0107bb4: 00 != 49
+43e4.b660:   00007ff607697bb5 / 0x0107bb5: 00 != 4e
+43e4.b660:   00007ff607697bb6 / 0x0107bb6: 00 != 47
+43e4.b660:   00007ff607697bb7 / 0x0107bb7: 00 != 58
+43e4.b660:   00007ff607697bb8 / 0x0107bb8: 00 != 58
+43e4.b660:   00007ff607697bb9 / 0x0107bb9: 00 != 50
+43e4.b660:   00007ff607697bba / 0x0107bba: 00 != 41
+43e4.b660:   00007ff607697bbb / 0x0107bbb: 00 != 44
+43e4.b660:   00007ff607697bbc / 0x0107bbc: 00 != 44
+43e4.b660:   00007ff607697bbd / 0x0107bbd: 00 != 49
+43e4.b660:   00007ff607697bbe / 0x0107bbe: 00 != 4e
+43e4.b660:   00007ff607697bbf / 0x0107bbf: 00 != 47
+43e4.b660:   00007ff607697bc0 / 0x0107bc0: 00 != 50
+43e4.b660:   00007ff607697bc1 / 0x0107bc1: 00 != 41
+43e4.b660:   00007ff607697bc2 / 0x0107bc2: 00 != 44
+43e4.b660:   00007ff607697bc3 / 0x0107bc3: 00 != 44
+43e4.b660:   00007ff607697bc4 / 0x0107bc4: 00 != 49
+43e4.b660:   00007ff607697bc5 / 0x0107bc5: 00 != 4e
+43e4.b660:   00007ff607697bc6 / 0x0107bc6: 00 != 47
+43e4.b660:   00007ff607697bc7 / 0x0107bc7: 00 != 58
+43e4.b660:   00007ff607697bc8 / 0x0107bc8: 00 != 58
+43e4.b660:   00007ff607697bc9 / 0x0107bc9: 00 != 50
+43e4.b660:   00007ff607697bca / 0x0107bca: 00 != 41
+43e4.b660:   00007ff607697bcb / 0x0107bcb: 00 != 44
+43e4.b660:   00007ff607697bcc / 0x0107bcc: 00 != 44
+43e4.b660:   00007ff607697bcd / 0x0107bcd: 00 != 49
+43e4.b660:   00007ff607697bce / 0x0107bce: 00 != 4e
+43e4.b660:   00007ff607697bcf / 0x0107bcf: 00 != 47
+43e4.b660:   00007ff607697bd0 / 0x0107bd0: 00 != 50
+43e4.b660:   00007ff607697bd1 / 0x0107bd1: 00 != 41
+43e4.b660:   00007ff607697bd2 / 0x0107bd2: 00 != 44
+43e4.b660:   00007ff607697bd3 / 0x0107bd3: 00 != 44
+43e4.b660:   00007ff607697bd4 / 0x0107bd4: 00 != 49
+43e4.b660:   00007ff607697bd5 / 0x0107bd5: 00 != 4e
+43e4.b660:   00007ff607697bd6 / 0x0107bd6: 00 != 47
+43e4.b660:   00007ff607697bd7 / 0x0107bd7: 00 != 58
+43e4.b660:   00007ff607697bd8 / 0x0107bd8: 00 != 58
+43e4.b660:   00007ff607697bd9 / 0x0107bd9: 00 != 50
+43e4.b660:   00007ff607697bda / 0x0107bda: 00 != 41
+43e4.b660:   00007ff607697bdb / 0x0107bdb: 00 != 44
+43e4.b660:   00007ff607697bdc / 0x0107bdc: 00 != 44
+43e4.b660:   00007ff607697bdd / 0x0107bdd: 00 != 49
+43e4.b660:   00007ff607697bde / 0x0107bde: 00 != 4e
+43e4.b660:   00007ff607697bdf / 0x0107bdf: 00 != 47
+43e4.b660:   00007ff607697be0 / 0x0107be0: 00 != 50
+43e4.b660:   00007ff607697be1 / 0x0107be1: 00 != 41
+43e4.b660:   00007ff607697be2 / 0x0107be2: 00 != 44
+43e4.b660:   00007ff607697be3 / 0x0107be3: 00 != 44
+43e4.b660:   00007ff607697be4 / 0x0107be4: 00 != 49
+43e4.b660:   00007ff607697be5 / 0x0107be5: 00 != 4e
+43e4.b660:   00007ff607697be6 / 0x0107be6: 00 != 47
+43e4.b660:   00007ff607697be7 / 0x0107be7: 00 != 58
+43e4.b660:   00007ff607697be8 / 0x0107be8: 00 != 58
+43e4.b660:   00007ff607697be9 / 0x0107be9: 00 != 50
+43e4.b660:   00007ff607697bea / 0x0107bea: 00 != 41
+43e4.b660:   00007ff607697beb / 0x0107beb: 00 != 44
+43e4.b660:   00007ff607697bec / 0x0107bec: 00 != 44
+43e4.b660:   00007ff607697bed / 0x0107bed: 00 != 49
+43e4.b660:   00007ff607697bee / 0x0107bee: 00 != 4e
+43e4.b660:   00007ff607697bef / 0x0107bef: 00 != 47
+43e4.b660:   00007ff607697bf0 / 0x0107bf0: 00 != 50
+43e4.b660:   00007ff607697bf1 / 0x0107bf1: 00 != 41
+43e4.b660:   00007ff607697bf2 / 0x0107bf2: 00 != 44
+43e4.b660:   00007ff607697bf3 / 0x0107bf3: 00 != 44
+43e4.b660:   00007ff607697bf4 / 0x0107bf4: 00 != 49
+43e4.b660:   00007ff607697bf5 / 0x0107bf5: 00 != 4e
+43e4.b660:   00007ff607697bf6 / 0x0107bf6: 00 != 47
+43e4.b660:   00007ff607697bf7 / 0x0107bf7: 00 != 58
+43e4.b660:   00007ff607697bf8 / 0x0107bf8: 00 != 58
+43e4.b660:   00007ff607697bf9 / 0x0107bf9: 00 != 50
+43e4.b660:   00007ff607697bfa / 0x0107bfa: 00 != 41
+43e4.b660:   00007ff607697bfb / 0x0107bfb: 00 != 44
+43e4.b660:   00007ff607697bfc / 0x0107bfc: 00 != 44
+43e4.b660:   00007ff607697bfd / 0x0107bfd: 00 != 49
+43e4.b660:   00007ff607697bfe / 0x0107bfe: 00 != 4e
+43e4.b660:   00007ff607697bff / 0x0107bff: 00 != 47
+43e4.b660:   Restored 0x490 bytes of original file content at 00007ff607697b70
+43e4.b660: ntdll.dll: Differences in section #12 (.mrdata) between file and memory:
+43e4.b660:   00007ff8d742a490 / 0x01ea490: 00 != a0
+43e4.b660:   00007ff8d742a491 / 0x01ea491: 00 != c2
+43e4.b660:   00007ff8d742a492 / 0x01ea492: 00 != 26
+43e4.b660:   00007ff8d742a493 / 0x01ea493: 00 != 77
+43e4.b660:   00007ff8d742a498 / 0x01ea498: 00 != d8
+43e4.b660:   00007ff8d742a499 / 0x01ea499: 00 != 97
+43e4.b660:   00007ff8d742a49a / 0x01ea49a: 00 != 26
+43e4.b660:   00007ff8d742a49b / 0x01ea49b: 00 != 77
+43e4.b660:   00007ff8d742a4d8 / 0x01ea4d8: 00 != cc
+43e4.b660:   00007ff8d742a4d9 / 0x01ea4d9: 00 != 6a
+43e4.b660:   00007ff8d742a4da / 0x01ea4da: 00 != 8a
+43e4.b660:   00007ff8d742a4db / 0x01ea4db: 00 != 04
+43e4.b660:   00007ff8d742a4e0 / 0x01ea4e0: 00 != 10
+43e4.b660:   00007ff8d742a4e5 / 0x01ea4e5: 00 != 01
+43e4.b660:   00007ff8d742a4ef / 0x01ea4ef: 00 != 20
+43e4.b660:   00007ff8d742a4f0 / 0x01ea4f0: 00 != 02
+43e4.b660:   00007ff8d742a4f1 / 0x01ea4f1: 00 != 20
+43e4.b660:   00007ff8d742a4fa / 0x01ea4fa: 00 != 7e
+43e4.b660:   00007ff8d742a4fb / 0x01ea4fb: 00 != 93
+43e4.b660:   00007ff8d742a4fc / 0x01ea4fc: 00 != f5
+43e4.b660:   00007ff8d742a4fd / 0x01ea4fd: 00 != 7d
+43e4.b660:   00007ff8d742a505 / 0x01ea505: 00 != 02
+43e4.b660:   Restored 0x118 bytes of original file content at 00007ff8d742a490
+43e4.b660: supR3HardNtChildPurify: cFixes=2 g_fSupAdversaries=0x20
+43e4.b660: supR3HardNtChildPurify: Startup delay kludge #1/1: 520 ms, 60 sleeps
+43e4.b660: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+43e4.b660:  *0000000000000000-000000007ffdffff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000007ffe0000-000000007ffe0fff 0x0002/0x0002 0x0020000
+43e4.b660:   000000007ffe1000-000000007ffeefff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000007ffef000-000000007ffeffff 0x0002/0x0002 0x0020000
+43e4.b660:   000000007fff0000-000000e8679fffff 0x0001/0x0000 0x0000000
+43e4.b660:  *000000e867a00000-000000e867aaafff 0x0000/0x0004 0x0020000
+43e4.b660:   000000e867aab000-000000e867aadfff 0x0004/0x0004 0x0020000
+43e4.b660:   000000e867aae000-000000e867bfffff 0x0000/0x0004 0x0020000
+43e4.b660:  *000000e867c00000-000000e867cfafff 0x0000/0x0004 0x0020000
+43e4.b660:   000000e867cfb000-000000e867cfdfff 0x0104/0x0004 0x0020000
+43e4.b660:   000000e867cfe000-000000e867cfffff 0x0004/0x0004 0x0020000
+43e4.b660:   000000e867d00000-0000028466c4ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028466c50000-0000028466c6ffff 0x0004/0x0004 0x0020000
+43e4.b660:  *0000028466c70000-0000028466c8ffff 0x0002/0x0002 0x0040000
+43e4.b660:  *0000028466c90000-0000028466c93fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028466c94000-0000028466c9ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028466ca0000-0000028466ca0fff 0x0002/0x0002 0x0040000
+43e4.b660:   0000028466ca1000-0000028466caffff 0x0001/0x0000 0x0000000
+43e4.b660:  *0000028466cb0000-0000028466cb1fff 0x0004/0x0004 0x0020000
+43e4.b660:   0000028466cb2000-00007df5937dffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007df5937e0000-00007df594e02fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007df594e03000-00007df594f5cfff 0x0001/0x0001 0x0040000
+43e4.b660:   00007df594f5d000-00007df5955a3fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007df5955a4000-00007df5955a4fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007df5955a5000-00007ff56b9b5fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff56b9b6000-00007ff56b9bafff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff56b9bb000-00007ff5737dffff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff5737e0000-00007ff576da8fff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff576da9000-00007ff576db2fff 0x0002/0x0001 0x0040000
+43e4.b660:   00007ff576db3000-00007ff591408fff 0x0000/0x0001 0x0040000
+43e4.b660:   00007ff591409000-00007ff5937dffff 0x0001/0x0001 0x0040000
+43e4.b660:   00007ff5937e0000-00007ff596e1ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff596e20000-00007ff596e20fff 0x0002/0x0002 0x0040000
+43e4.b660:   00007ff596e21000-00007ff60758ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff607590000-00007ff607590fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607591000-00007ff6075fbfff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff6075fc000-00007ff6075fcfff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff6075fd000-00007ff607651fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff607652000-00007ff60765dfff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60765e000-00007ff60765efff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60765f000-00007ff607699fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660:   00007ff60769a000-00007ff8d723ffff 0x0001/0x0000 0x0000000
+43e4.b660:  *00007ff8d7240000-00007ff8d7240fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7241000-00007ff8d73b2fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d73b3000-00007ff8d740bfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d740c000-00007ff8d740cfff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d740d000-00007ff8d740dfff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d740e000-00007ff8d7415fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7416000-00007ff8d7426fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7427000-00007ff8d7427fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d7428000-00007ff8d7429fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d742a000-00007ff8d742afff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d742b000-00007ff8d74a7fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+43e4.b660:   00007ff8d74a8000-00007ffffffeffff 0x0001/0x0000 0x0000000
+43e4.b660: supR3HardNtChildPurify: Done after 1045 ms and 2 fixes (loop #1).
+5164.7fe0: supR3HardenedVmProcessInit: uNtDllAddr=00007ff8d7240000 g_uNtVerCombined=0xa065f400 (stack ~000000e867cfe910)
+5164.7fe0: ntdll.dll: timestamp 0x9c8f8241 (rc=VINF_SUCCESS)
+5164.7fe0: New simple heap: #1 0000028466dc0000 LB 0x800000 (for 2523136 allocation)
+43e4.b660: supR3HardNtEnableThreadCreationEx:
+5164.7fe0: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+5164.7fe0: System32:  \Device\HarddiskVolume3\Windows\System32
+5164.7fe0: WinSxS:    \Device\HarddiskVolume3\Windows\WinSxS
+5164.7fe0: KnownDllPath: C:\WINDOWS\System32
+5164.7fe0: supR3HardenedVmProcessInit: Opening vboxsup stub...
+5164.7fe0: supR3HardenedWinReadErrorInfoDevice: 'Signature #1/1: Not signed with the build certificate (serial 0a a1 8f 63 f9 6f 11 77 1c bb 0b 43 e4 d6 90 b8, expected 06 0e 2f 8f 9e 1b 8b e5 18 d5 fe 2b 69 cf cc b1): \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe'
+5164.7fe0: Error -5657 in supR3HardenedWinReSpawn! (enmWhat=3)
+5164.7fe0: NtCreateFile(\Device\VBoxDrvStub) failed: -5657 (rcNt=0xe986e9e7)
+VBoxDrvStub error: Signature #1/1: Not signed with the build certificate (serial 0a a1 8f 63 f9 6f 11 77 1c bb 0b 43 e4 d6 90 b8, expected 06 0e 2f 8f 9e 1b 8b e5 18 d5 fe 2b 69 cf cc b1): \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+43e4.b660: supR3HardenedWinCheckChild: enmRequest=2 rc=-5657 enmWhat=3 supR3HardenedWinReSpawn: NtCreateFile(\Device\VBoxDrvStub) failed: -5657 (rcNt=0xe986e9e7)
+VBoxDrvStub error: Signature #1/1: Not signed with the build certificate (serial 0a a1 8f 63 f9 6f 11 77 1c bb 0b 43 e4 d6 90 b8, expected 06 0e 2f 8f 9e 1b 8b e5 18 d5 fe 2b 69 cf cc b1): \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+5164.7fe0: KiUserExceptionDispatcher: 0xc0000005 (0000000000000001, 0000000000000024) @ 00007ff8d724aa83 (flags=0x0)
+  rax=0000000000000000 rbx=0000000000000000 rcx=00007ff8d74126e0 rdx=00000000fffffffa
+  rsi=00007ff8d7412878 rdi=00007ff8d74126e0 r8 =0000000000000000 r9 =00007ff8d74126e8
+  r10=0000000000000001 r11=0000000000000001 r12=00000000ff000000 r13=00007ff607612000
+  r14=00000000fffffffa r15=000000007ffe036a  P1=000000e867cf9e30  P2=0000000000000000
+  rip=00007ff8d724aa83 rsp=000000e867cfa4d0 rbp=000000e867cfa569    ctxflags=0010005f
+  cs=0033 ss=002b ds=002b es=002b fs=0053 gs=002b    eflags=00010213   mxcrx=00001f80
+   P3=00007ff60759c280  P4=00000000ffffffff  P5=00007ff60759c280  P6=00007ff607611008
+  dr0=0000000000000000 dr1=0000000000000000 dr2=0000000000000000 dr3=0000000000000000
+  dr6=0000000000000000 dr7=0000000000000000 vcr=0000000000000000 dcr=0000000000000000
+  lbt=0000000000000000 lbf=0000000000000000 lxt=0000000000000000 lxf=0000000000000000
+43e4.b660: Error -5657 in supR3HardenedWinReSpawn! (enmWhat=3)
+43e4.b660: NtCreateFile(\Device\VBoxDrvStub) failed: -5657 (rcNt=0xe986e9e7)
+VBoxDrvStub error: Signature #1/1: Not signed with the build certificate (serial 0a a1 8f 63 f9 6f 11 77 1c bb 0b 43 e4 d6 90 b8, expected 06 0e 2f 8f 9e 1b 8b e5 18 d5 fe 2b 69 cf cc b1): \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe

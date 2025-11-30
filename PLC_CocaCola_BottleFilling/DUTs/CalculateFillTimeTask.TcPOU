@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.16">
+  <POU Name="CalculateFillTimeTask" Id="{fa3a7f90-0b9e-465b-906a-c20b1f6e22f0}" SpecialFunc="None">
+    <Declaration><![CDATA[FUNCTION CalculateFillTime_ms : DINT
+VAR_INPUT
+    vol_l   : REAL;   // Bottle volume [L]
+    rate_Ls : REAL;   // Fill rate [L/s]
+END_VAR
+VAR
+    t_ms : REAL;      // Calculated time in milliseconds
+END_VAR]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[
+
+// Basic validation (avoid division by zero)
+IF rate_Ls <= 0 THEN
+    CalculateFillTime_ms := 0;
+    RETURN;
+END_IF
+
+// Convert time from seconds to milliseconds
+t_ms := (vol_l / rate_Ls) * 1000.0;
+
+// Clamp limits (just to avoid impossible values)
+IF t_ms < 0.0 THEN
+    t_ms := 0.0;
+ELSIF t_ms > 60000.0 THEN
+    t_ms := 60000.0;   // 60 seconds max
+END_IF
+
+// Return the calculated time as DINT
+CalculateFillTime_ms := REAL_TO_DINT(t_ms);
+]]></ST>
+    </Implementation>
+    <LineIds Name="CalculateFillTimeTask">
+      <LineId Id="15" Count="19" />
+      <LineId Id="7" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>
