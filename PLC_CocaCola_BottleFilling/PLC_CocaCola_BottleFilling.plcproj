@@ -21,20 +21,20 @@
     <Compile Include="DUTs\CalculateFillTimeTask.TcPOU">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DUTs\ConveyorTask.TcPOU">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="DUTs\GVL_CocaCola.TcGVL">
+    <Compile Include="GVLs\GVL_CocaCola.TcGVL">
       <SubType>Code</SubType>
       <LinkAlways>true</LinkAlways>
-    </Compile>
-    <Compile Include="DUTs\ProductionTask.TcPOU">
-      <SubType>Code</SubType>
     </Compile>
     <Compile Include="PlcTask.TcTTO">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="POUs\ConveyorTask.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="POUs\MAIN.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="POUs\ProductionTask.TcPOU">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
