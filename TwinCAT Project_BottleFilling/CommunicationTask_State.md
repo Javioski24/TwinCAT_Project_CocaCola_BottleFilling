@@ -1,4 +1,4 @@
-```Plantuml
+```Mermaid
 @startuml TasksCommunication_Student
 
 title Task Communication Flow (Conveyor <-> Production)

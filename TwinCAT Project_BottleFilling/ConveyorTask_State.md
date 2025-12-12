@@ -1,4 +1,4 @@
-```Plantuml
+```Mermaid
 @startuml 
 
 title Diagrama de Estados - ConveyorTask
