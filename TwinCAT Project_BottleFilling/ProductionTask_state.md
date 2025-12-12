@@ -1,3 +1,4 @@
+```Plantuml
 @startuml 
 
 title ProductionTask - State Diagram
@@ -43,5 +44,4 @@ CAPPING --> DONE : CapTON.Q == TRUE\nCapper := FALSE
 DONE --> IDLE : gBottleFilled == FALSE
 
 @enduml
-
-
+```

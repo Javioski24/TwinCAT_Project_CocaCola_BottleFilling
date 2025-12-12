@@ -1,3 +1,4 @@
+```Plantuml
 @startuml TasksCommunication_Student
 
 title Task Communication Flow (Conveyor <-> Production)
@@ -32,3 +33,4 @@ Production -> GVL : READ gBottleFilled
 Production -> Production : Return to IDLE (Ready for next)
 
 @enduml
+```

@@ -1,3 +1,4 @@
+```Plantuml
 @startuml 
 
 title Diagrama de Estados - ConveyorTask
@@ -33,3 +34,4 @@ STOPPED --> EVACUATE : gBottleFilled = TRUE (Filling up completed) / gBottleRead
 EVACUATE --> RUNNING : (NOT gSensor_BottleDetected) AND EvacuateTON.Q (Evacuation Ends) / gBottleFilled := FALSE
 
 @enduml
+```
