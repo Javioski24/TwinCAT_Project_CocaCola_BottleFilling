@@ -1,5 +1,5 @@
-```Mermaid
-
+```Plantuml
+@startuml 
 
 title Diagrama de Estados - ConveyorTask
 
@@ -26,11 +26,11 @@ note right of EVACUATE
   gActuator_ConveyorRun := TRUE
 end note
 
-
 'Transitions'
 
 RUNNING --> STOPPED : DebounceTON.Q (Firm Bottle Detected) / gBottleReadyForFill := TRUE
 STOPPED --> EVACUATE : gBottleFilled = TRUE (Filling up completed) / gBottleReadyForFill := FALSE
 EVACUATE --> RUNNING : (NOT gSensor_BottleDetected) AND EvacuateTON.Q (Evacuation Ends) / gBottleFilled := FALSE
 
+@enduml
 ```

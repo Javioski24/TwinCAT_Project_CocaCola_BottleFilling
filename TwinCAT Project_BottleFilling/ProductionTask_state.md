@@ -1,4 +1,5 @@
-```Mermaid
+```Plantuml
+@startuml 
 
 title ProductionTask - State Diagram
 
@@ -42,5 +43,5 @@ FILLING --> CAPPING : FillTON.Q == TRUE\nFillValve := FALSE\nCapTON start\n gBot
 CAPPING --> DONE : CapTON.Q == TRUE\nCapper := FALSE
 DONE --> IDLE : gBottleFilled == FALSE
 
-
+@enduml
 ```

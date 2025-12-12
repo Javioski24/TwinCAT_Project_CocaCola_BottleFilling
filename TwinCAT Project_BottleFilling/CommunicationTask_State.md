@@ -1,5 +1,5 @@
-```Mermaid
-TasksCommunication_Student
+```Plantuml
+@startuml TasksCommunication_Student
 
 title Task Communication Flow (Conveyor <-> Production)
 
@@ -32,4 +32,5 @@ Conveyor -> GVL : RESET gBottleFilled
 Production -> GVL : READ gBottleFilled
 Production -> Production : Return to IDLE (Ready for next)
 
+@enduml
 ```
