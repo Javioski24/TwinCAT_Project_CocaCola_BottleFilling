@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.16">
+  <Task Name="ConveyorTask_Cycle" Id="{f8f19e9b-fd50-4cd2-9f23-9e5571264689}">
+    <!--CycleTime in micro seconds.-->
+    <CycleTime>10000</CycleTime>
+    <Priority>22</Priority>
+    <TaskFBGuid>{f7cf0f51-b6d0-4450-92cf-769d86dbd4ee}</TaskFBGuid>
+    <Fb_init>{2478d8a3-f605-43d5-a94c-e95cca446bf4}</Fb_init>
+    <Fb_exit>{3d355156-4611-4312-a332-56b4541d15b4}</Fb_exit>
+    <CycleUpdate>{2571f265-5961-441d-bf51-62c0926892eb}</CycleUpdate>
+    <PostCycleUpdate>{32b0c4ae-3afc-40f6-a328-58f9aeb757a0}</PostCycleUpdate>
+  </Task>
+</TcPlcObject>
