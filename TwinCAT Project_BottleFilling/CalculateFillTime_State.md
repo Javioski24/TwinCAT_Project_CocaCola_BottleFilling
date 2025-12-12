@@ -1,5 +1,5 @@
 ```Mermaid
-@startuml 
+
 title Function: CalculateFillTime_ms 
 
 participant ProductionTask
@@ -27,5 +27,4 @@ deactivate Func
 == Action ==
 ProductionTask -> ProductionTask : Start FillTON(PT := tFill_ms)\nOpen FillValve
 
-@enduml
 ```

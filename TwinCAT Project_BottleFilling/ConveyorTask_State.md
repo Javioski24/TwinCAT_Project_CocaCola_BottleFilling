@@ -1,5 +1,5 @@
 ```Mermaid
-@startuml 
+
 
 title Diagrama de Estados - ConveyorTask
 
@@ -33,5 +33,4 @@ RUNNING --> STOPPED : DebounceTON.Q (Firm Bottle Detected) / gBottleReadyForFill
 STOPPED --> EVACUATE : gBottleFilled = TRUE (Filling up completed) / gBottleReadyForFill := FALSE
 EVACUATE --> RUNNING : (NOT gSensor_BottleDetected) AND EvacuateTON.Q (Evacuation Ends) / gBottleFilled := FALSE
 
-@enduml
 ```
