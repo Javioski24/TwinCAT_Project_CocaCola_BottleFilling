@@ -18,12 +18,12 @@
     <LibraryReferences>{2ec507f7-71b1-4c5d-a388-413dc65d38bc}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ConveyorTask_Cycle.TcTTO">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="GVLs\GVL_CocaCola.TcGVL">
       <SubType>Code</SubType>
       <LinkAlways>true</LinkAlways>
-    </Compile>
-    <Compile Include="PlcTask.TcTTO">
-      <SubType>Code</SubType>
     </Compile>
     <Compile Include="POUs\CalculateFillTimeTask.TcPOU">
       <SubType>Code</SubType>
@@ -32,6 +32,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="POUs\ProductionTask.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ProductionTask_Cycle.TcTTO">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

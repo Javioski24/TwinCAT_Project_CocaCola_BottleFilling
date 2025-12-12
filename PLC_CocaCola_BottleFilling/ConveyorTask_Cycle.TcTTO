@@ -4,6 +4,9 @@
     <!--CycleTime in micro seconds.-->
     <CycleTime>10000</CycleTime>
     <Priority>22</Priority>
+    <PouCall>
+      <Name>ConveyorTask</Name>
+    </PouCall>
     <TaskFBGuid>{f7cf0f51-b6d0-4450-92cf-769d86dbd4ee}</TaskFBGuid>
     <Fb_init>{2478d8a3-f605-43d5-a94c-e95cca446bf4}</Fb_init>
     <Fb_exit>{3d355156-4611-4312-a332-56b4541d15b4}</Fb_exit>

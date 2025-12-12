@@ -7,10 +7,10 @@ Project("{B1E792BE-AA5F-4E3C-8C82-674BF9C0715B}") = "TwinCAT Project_BottleFilli
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E199AEE4-3B1D-4FDE-A4C8-7E6711AC12A1}"
 	ProjectSection(SolutionItems) = preProject
-		CalculateFillTime_State.md = CalculateFillTime_State.md
-		CommunicationTask_State.md = CommunicationTask_State.md
-		ConveyorTask_State.md = ConveyorTask_State.md
-		ProductionTask_state.md = ProductionTask_state.md
+		CalculateFillTime_State.puml = CalculateFillTime_State.puml
+		CommunicationTask_State.puml = CommunicationTask_State.puml
+		ConveyorTask_State.puml = ConveyorTask_State.puml
+		ProductionTask_state.puml = ProductionTask_state.puml
 	EndProjectSection
 EndProject
 Global
